@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#will be used in crontab -e
 echo "#####################"
 date
 ls /var/run/httpd/httpd.pid &> /dev/null
